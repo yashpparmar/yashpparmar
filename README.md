@@ -1,4 +1,4 @@
-👋 HELLO I'am yash.
+👋 HELLO I'm yash.
 🚀 I am web developer.
 
 
