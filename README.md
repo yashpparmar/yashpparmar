@@ -1,6 +1,6 @@
 👋 HELLO I'm yash.
 
-🚀 I am web developer.
+🚀 I am frontend developer.
 
 ## 🛠 SKILLS
 
