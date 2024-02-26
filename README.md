@@ -4,8 +4,8 @@
 
 ## 🛠 SKILLS
 
-- [React](https://reactjs.org/) & [Redux](https://redux.js.org/)
-- [Meteor](https://www.meteor.com/)
+- [ReactJs](https://reactjs.org/) & [Redux](https://redux.js.org/)
+- [MeteorJs](https://www.meteor.com/)
 - [MongoDB](https://www.mongodb.com/) 
 
 <!---
