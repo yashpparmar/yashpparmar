@@ -1,8 +1,7 @@
 👋 HELLO I'm yash.
 
 ## 🚀 About
-
-  I am frontend developer...
+I am frontend developer...
 
 ## 🛠 SKILLS
 
