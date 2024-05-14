@@ -1,13 +1,13 @@
-## 👋 HELLO I'm yash.
+## <p align="center">👋 HELLO, I'm Yash.</p>
 
 ## 🚀 About
 I am frontend developer...
 
 ## 🛠 SKILLS
 
-- [ReactJs](https://reactjs.org/) & [Redux](https://redux.js.org/)
-- [MeteorJs](https://www.meteor.com/)
+- [ReactJs](https://reactjs.dev/) & [Redux](https://redux.js.org/)
 - [MongoDB](https://www.mongodb.com/) 
+- [MeteorJs](https://www.meteor.com/)
 
 <!---
 yashpparmar/yashpparmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
