@@ -1,7 +1,7 @@
 ## <p align="center">👋 HELLO, I'm Yash.</p>
 
 ## 🚀 About
-I am frontend developer...
+I am web developer...
 
 ## 🛠 SKILLS
 
